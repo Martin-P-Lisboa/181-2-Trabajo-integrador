@@ -60,10 +60,10 @@ a{
     display: flex;
     color: var(--color-card-container);
     text-decoration: none; 
-    height: 50px;
+    height: 45px;
     align-items: center;
     padding: 12px 5px;
-    border-radius: 50px;
+    border-radius: 10px;
     font-size: 15px;
     border: var(--color-texto) solid 1.5px;
     background-color: var(--color-fondo);
